@@ -7,3 +7,8 @@
 *GitHub: Linarka21
 ##About Me##
 ###I am 37 years old and work as an engineer. I think that my real work will someday lead me to stagnation. I really need classes in which I can develop. That's why I'm here.###
+##Skills and Proficiency:##
+1.HTML5
+1.Git
+1.SCL
+1.IntelliJ IDEA
