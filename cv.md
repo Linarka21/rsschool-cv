@@ -9,13 +9,14 @@
 * https://vk.com/id6325356
 
 ## About Me
-### I am 37 years old and work as an engineer. I think that my real work will someday lead me to stagnation. I really need classes in which I can develop. That's why I'm here.
+ I am 37 years old and work as an engineer. I think that my real work will someday lead me to stagnation. I really need classes in which I can develop. That's why I'm here.
 
 ## Skills and Proficiency:
 1. HTML5
 1. Git
 1. SCL
 1. IntelliJ IDEA
+1. SQL
 
 ## Code Example
 ```function sum(a, b) {  
@@ -28,6 +29,6 @@ alert( result );```
 ### Kazan National Research Technical University named after A. N. Tupolev - KAI
 
 ## Language
-* _Russian - native speaker_
-* _English - A2_ 
-* _Tatar - native speaker_
+* *Russian - native speaker*
+* *English - A2* 
+* *Tatar - native speaker*
