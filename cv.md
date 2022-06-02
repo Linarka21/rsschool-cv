@@ -28,9 +28,9 @@ alert( result );
 ```
 
 ## Education
- Kazan National Research Technical University named after A. N. Tupolev - KAI
+Kazan National Research Technical University named after A. N. Tupolev - KAI
 
 ## Language
-* *Russian - native speaker*
-* *English - A2* 
-* *Tatar - native speaker*
+* *Russian* - native speaker
+* *English* - A2
+* *Tatar* - native speaker
