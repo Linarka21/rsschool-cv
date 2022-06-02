@@ -6,7 +6,7 @@
 * Phone: +79503269154
 * Email: Mlskzzn@gmail.com
 * GitHub: Linarka21
-* https://vk.com/id6325356
+* [vk]https://vk.com/id6325356
 
 ## About Me
  I am 37 years old and work as an engineer. I think that my real work will someday lead me to stagnation. I really need classes in which I can develop. That's why I'm here.
@@ -19,14 +19,16 @@
 1. SQL
 
 ## Code Example
-```function sum(a, b) {  
+```
+function sum(a, b) {  
   return a + b;  
 }  
 let result = sum(1, 2);  
-alert( result );```
+alert( result );
+```
 
 ## Education
-### Kazan National Research Technical University named after A. N. Tupolev - KAI
+ Kazan National Research Technical University named after A. N. Tupolev - KAI
 
 ## Language
 * *Russian - native speaker*
