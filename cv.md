@@ -1,37 +1,31 @@
-# Minnegaraev Linar
-## Process control engineer
-
+# rsschool-cv
+# Minnegaraev Damir
 ## Contacts
-* City: Kazan
-* Phone: +79503269154
-* Email: Mlskzzn@gmail.com
-* GitHub: Linarka21
-* [vk](https://vk.com/id6325356)
+* Location: Kazan, Tatarstan
+* Phone: +7 939 309 30 67
+* Email: damirkzzzn@gmail.com
+* GitHub: MinDamir
 
 ## About Me
- I am 37 years old and work as an engineer. I think that my real work will someday lead me to stagnation. I really need classes in which I can develop. That's why I'm here.
+I am 12 years old. I am good at English and Math. At school I learn JavaScript and try to do my best.I am not very keen on team work but I think I will learn to work so.
 
-## Skills and Proficiency:
-1. HTML5
-1. Git
-1. SCL
-1. IntelliJ IDEA
-1. SQL
+## Skills
+* JavaScript(Basic)
 
 ## Code Example
 ```java
-function sum(a, b) {  
-  return a + b;  
-}  
-let result = sum(1, 2);  
+function sum(a, b) {
+  return a + b;
+}
+let result = sum(1, 2);
 alert( result );
 ```
 
+## Experience
+
 ## Education
+* School: Liceum-dorm №2
 
-Kazan National Research Technical University named after A. N. Tupolev - KAI
-
-## Language
-* *Russian* - native speaker
-* *English* - A2
-* *Tatar* - native speaker
+## Languages
+* English(A2)
+* Russian
