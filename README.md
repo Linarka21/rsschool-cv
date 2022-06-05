@@ -1,1 +1,1 @@
-https://Linarka21.github.io/rsschool-cv/cv
+https://Linarka21.github.io/rsschool-cv/
